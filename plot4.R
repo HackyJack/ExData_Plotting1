@@ -37,3 +37,4 @@ plot(theData$Seq, theData$Global_reactive_power, type="l",
 	ylab="Global Reactive Power",
 	xlab="Datetime")
 dev.off()
+

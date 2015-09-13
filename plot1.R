@@ -8,3 +8,4 @@ theDataSub$Global_active_power <- theDataSub$Global_active_power / 1000
 hist(theDataSub$Global_active_power, col="red",
 	main="Global Active Power", xlab="Global Active Power (kilowatts)")
 dev.off()
+
